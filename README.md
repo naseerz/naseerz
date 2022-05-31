@@ -1,17 +1,19 @@
 ### Hi there 👋
-Hi, I’m @naseerz
+Hi, I’m Muhammad Naseer 
 
-👀 I’m interested in Mobile App Development ( Native and Flutter )
+👀 I’m interested in Mobile App Developments Flutter.
 
 🌱 I’m currently learning Flutter Application Development
 
 💞️ I’m looking to collaborate With Everyone ❤️
 
-📫 How to reach me ... Using Twitter.
+📫 How to reach me  Twitter in bio.
 
 💬 Ask me about.. Anything You want to ask
 
+😄 Pronouns: he/his.
 
+⚡ Fun fact: Coding daily 
 
 
 <!--
