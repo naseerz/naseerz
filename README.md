@@ -29,7 +29,7 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
   <a href="https://twitter.com/its_naseerx">
     <img src="https://img.shields.io/badge/its_naseerx-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://twitter.com/its_naseerx">
+    <a href="https://www.facebook.com/iqbalkhax.khan">
     <img src="https://img.shields.io/badge/Ñaseer Khñ-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
